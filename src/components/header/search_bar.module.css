@@ -1,0 +1,17 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 0.5rem;
+    height: 50px;background-color: #000;
+}
+
+.header h1 {
+    color:#fff;
+    margin-right: 1em;
+}
+
+.header input {
+    flex-basis: 100%;
+    font-size: 1.2rem;
+}
